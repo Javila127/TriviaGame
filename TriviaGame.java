@@ -67,7 +67,7 @@ public class TriviaGame {
            
         }
         
-        /*
+        
         //Player 2 sequence
         System.out.println("Now it is player 2's turn.");
         while(isReady != 1){
@@ -99,7 +99,7 @@ public class TriviaGame {
            
         }
        
-        */
+        
         //End game sequence
         System.out.println("Here are the results\n" + "Player 1 score: " + player1Score + "\nPLayer 2 score: " + 
         player2Score);
